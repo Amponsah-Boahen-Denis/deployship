@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deployship/static/css/main.a5ed0237.chunk.css",
+    "main.js": "/deployship/static/js/main.94838ab1.chunk.js",
+    "main.js.map": "/deployship/static/js/main.94838ab1.chunk.js.map",
+    "runtime-main.js": "/deployship/static/js/runtime-main.431f1fe1.js",
+    "runtime-main.js.map": "/deployship/static/js/runtime-main.431f1fe1.js.map",
+    "static/js/2.68f04021.chunk.js": "/deployship/static/js/2.68f04021.chunk.js",
+    "static/js/2.68f04021.chunk.js.map": "/deployship/static/js/2.68f04021.chunk.js.map",
+    "index.html": "/deployship/index.html",
+    "static/css/main.a5ed0237.chunk.css.map": "/deployship/static/css/main.a5ed0237.chunk.css.map",
+    "static/js/2.68f04021.chunk.js.LICENSE.txt": "/deployship/static/js/2.68f04021.chunk.js.LICENSE.txt",
+    "static/media/datapage.scss": "/deployship/static/media/bg.5fc4c35d.jpg",
+    "static/media/checkpage.scss": "/deployship/static/media/bgh.a483a16b.jpg",
+    "static/media/lastpage.scss": "/deployship/static/media/bgs.09d44855.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.431f1fe1.js",
+    "static/js/2.68f04021.chunk.js",
+    "static/css/main.a5ed0237.chunk.css",
+    "static/js/main.94838ab1.chunk.js"
+  ]
+}
